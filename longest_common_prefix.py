@@ -1,5 +1,6 @@
 #Write a function to find the longest common prefix string amongst an array of strings.
 #If there is no common prefix, return an empty string "".
+# https://leetcode.com/problems/longest-common-prefix/
 
 class Solution:
     def longestCommonPrefix(self, strs) -> str:
@@ -18,3 +19,5 @@ class Solution:
             prefix += letter
         
         return prefix
+
+# Solved 9/30/2020 with no help from 'Discussion' or 'Solution'.

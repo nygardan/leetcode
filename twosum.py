@@ -16,3 +16,5 @@ class Solution:
                 h[num] = i
             else:
                 return [h[n], i]
+
+# 9/30/2020 - Did not solve on my own - learned quite a bit from discussion.
